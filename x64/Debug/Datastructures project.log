@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Laiba\Desktop\Datastructures project\main.cpp(678,17): warning C4309: '=': truncation of constant value
+C:\Users\Laiba\Desktop\Datastructures project\main.cpp(704,17): warning C4309: '=': truncation of constant value
+  Datastructures project.vcxproj -> C:\Users\Laiba\Desktop\Datastructures project\x64\Debug\Datastructures project.exe
